@@ -1,0 +1,15 @@
+{
+  "name": "univcrud",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start":"App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
